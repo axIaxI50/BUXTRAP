@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2022","module":"CommonJS","moduleResolution":"Node","strict":true,"esModuleInterop":true,"skipLibCheck":true,"forceConsistentCasingInFileNames":true,"jsx":"react-jsx","outDir":"dist","rootDir":".","types":["node","vite/client"],"resolveJsonModule":true},"include":["src/**/*.ts","src/**/*.tsx","vite.config.ts"],"exclude":["node_modules","dist"]}
